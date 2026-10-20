@@ -1,0 +1,1 @@
+Python|Numpy|Numpy is called as numerical python which is a python library used to do the heavu data computation and is used by the professional who are in heavy computation field
