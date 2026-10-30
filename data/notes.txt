@@ -1,1 +1,3 @@
 Python|Numpy|Numpy is called as numerical python which is a python library used to do the heavu data computation and is used by the professional who are in heavy computation field
+DBMS|Transaction control|transaction is the process in which many fvrfbr
+Web-Programming|Javascript events|events are the actions which are performed by mouse keyboerd an so and and the task done after that event are called event handlers.
